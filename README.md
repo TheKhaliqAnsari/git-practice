@@ -9,3 +9,8 @@ When we do git status we see bunch of `untracked files`.
 
 
 5. `Rebasing` -> It is technique for managing cleaner history.
+
+
+
+
+Hi my name is khaliq ansari and i am full stack developer.
