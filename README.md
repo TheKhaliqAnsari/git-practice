@@ -5,3 +5,7 @@ When we do git status we see bunch of `untracked files`.
 3. `Staging Area` -> What alll files are going to be part of the next version that we will create. This statging area is the place where git knows what changes will be donefromthe last version to the next version.
 4. `Stash command` ->  Basically a git command by git.
 5. Some code added this code.
+
+
+
+5. `Rebasing` -> It is technique for managing cleaner history.
