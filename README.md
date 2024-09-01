@@ -12,3 +12,6 @@ When we do git status we see bunch of `untracked files`.
 
 
 7.`Learning`:- Learning git is so much fun.
+
+
+Hi my name is khaliq ansari and i am full stack developer.
