@@ -15,3 +15,6 @@ When we do git status we see bunch of `untracked files`.
 
 
 Hi my name is khaliq ansari and i am full stack developer.
+
+
+My name is Sanket Singh -> :P
