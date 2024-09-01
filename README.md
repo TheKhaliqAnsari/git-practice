@@ -9,3 +9,6 @@ When we do git status we see bunch of `untracked files`.
 
 
 5. `Rebasing` -> It is technique for managing cleaner history.
+
+
+7.`Learning`:- Learning git is so much fun.
